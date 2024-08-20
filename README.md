@@ -1,2 +1,7 @@
-# CLI-clothes-cashier-using-inquirer-package
-CL÷ is used in clothing cashier and sales and purchase operations are saved in Excel file and Jason file and works using inquirer
+
+# InterActive CLI clothes-cashier-using-inquirer && Commander -package
+
+### . npm install
+### . node addclo.js >> to add new clothes
+#### . node show show >> show all tables of clothes
+#### . node showitem >> Until he asks you what you want to search through

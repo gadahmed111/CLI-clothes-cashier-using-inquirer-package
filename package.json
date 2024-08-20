@@ -1,0 +1,17 @@
+{
+  "name": "cli-clothes-cashier-using-inquirer-package",
+  "version": "1.0.0",
+  "description": "CLI is used in clothing cashier and sales and purchase operations are saved in Excel file and Jason file and works using inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^10.1.8",
+    "xlsx": "^0.18.5"
+  }
+}
